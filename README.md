@@ -10,7 +10,8 @@ THE shell includes the following functions:
 7. history num
 8. repeat
 9. exit
-10. quit
+10. redirection
+11. quit
 
 No pre-requisites 
 
